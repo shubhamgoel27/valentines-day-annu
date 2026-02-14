@@ -61,7 +61,7 @@ const CONFIG = {
     music: {
         enabled: true,
         autoplay: true,
-        musicUrl: "https://res.cloudinary.com/dncywqfpb/video/upload/v1738399057/music_qrhjvy.mp3",
+        musicUrl: "https://res.cloudinary.com/doxtvyp0r/video/upload/v1771029400/Summer_Wine_-_Nancy_Sinatra_Lee_Hazlewood_j1rrww.mp3",
         startText: "🎵 Play Music",
         stopText: "🔇 Stop Music",
         volume: 0.5
